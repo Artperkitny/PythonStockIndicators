@@ -1,12 +1,7 @@
 import math
 import numpy as np
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot  as plt
-from timeit import default_timer as timer
 from numpy import *
-from numpy import save 
-from numpy import load 
+
 
 #Period 
 N = 14
